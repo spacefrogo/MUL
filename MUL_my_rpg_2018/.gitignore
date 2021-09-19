@@ -1,0 +1,11 @@
+tags
+**/*.o
+**/*.gc*
+**/libmy.a
+**/vgcore*
+my_rpg
+idk*
+**/*.out
+unit_tests
+tags
+data
